@@ -1,0 +1,6 @@
+{
+  "name": "CoinCIKOX",
+  "description": "A premium, modern cryptocurrency terminal featuring real-time price feeds, advanced portfolio tracking, custom intelligence watchlists, and server-side Gemini AI-powered market advisors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
